@@ -7,4 +7,6 @@ module.exports = {
   LPAREN: Symbol("LPAREN"),
   RPAREN: Symbol("RPAREN"),
   SYMBOL: Symbol("SYMBOL"),
+  SPACE: Symbol("SPACE"),
+  STRING: Symbol("STRING"),
 };
